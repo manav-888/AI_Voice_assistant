@@ -1,0 +1,7 @@
+python-dotenv
+streamlit
+google.generativeai
+audio_recorder_streamlit
+faster_whisper
+pygame
+gtts
